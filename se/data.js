@@ -36,7 +36,12 @@ var APP_DATA = {
           "target": "1-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [ {
+          "yaw": -2.0273328728974924,
+          "pitch": -0.0909565010826121,
+          "title": "牆壁",
+          "text": "牆壁"
+        }]
     },
     {
       "id": "1-",
